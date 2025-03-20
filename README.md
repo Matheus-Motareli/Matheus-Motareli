@@ -7,9 +7,13 @@ Experiência focada em: Resolução de problemas, gestão e consultoria de TI. �
 ## Habilidades em desenvolvimento:
 
 -Inglês us
+
 -Python 🐍
+
 -Cloud ☁
+
 -Inteligência Artificial 🤖
+
 -Desenvolvimento de software ⚙
 
 O que vem por aí: Certificações AWS Certified Cloud Practitioner e ITIL4. 🚀
