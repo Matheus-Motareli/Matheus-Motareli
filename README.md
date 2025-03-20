@@ -1,8 +1,8 @@
-👋 Olá, eu sou @Matheus-Motareli
+# 👋 Olá, eu sou @Matheus-Motareli
  
-Analista de Suporte de TI e Técnico de Informática | +5 anos em Help Desk
+### Analista de Suporte de TI e Técnico de Informática | +5 anos em Help Desk
 
-Focado em: Resolução de problemas, gestão e consultoria de TI. 💻
+Experiência focada em: Resolução de problemas, gestão e consultoria de TI. 💻
 
 Habilidades em desenvolvimento:
 
@@ -10,9 +10,9 @@ Inglês us
 
 Python 🐍
 
-Inteligência Artificial 🤖
-
 Cloud ☁
+
+Inteligência Artificial 🤖
 
 Desenvolvimento de software ⚙
 
