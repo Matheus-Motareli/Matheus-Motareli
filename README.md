@@ -1,26 +1,25 @@
-# 👋 Olá, eu sou @Matheus-Motareli
- 
-### Analista de Suporte de TI e Técnico de Informática | +5 anos em Help Desk
+# 👋 Olá! Eu sou Matheus Motareli  
 
-Experiência focada em: Resolução de problemas, gestão e consultoria de TI. 💻
+💻 **Analista de Suporte de TI | Técnico de Informática**  
+🎯 **+5 anos de experiência em Help Desk, Gestão e Consultoria de TI**  
 
-## Habilidades em desenvolvimento:
+## 🚀 Sobre mim  
+Sou um profissional apaixonado por tecnologia, especializado em **suporte técnico, resolução de problemas e gestão de TI**. Atualmente, estou expandindo meus conhecimentos em **Cloud Computing, Inteligência Artificial e Desenvolvimento de Software**.  
 
--Inglês us
+## 🛠️ Habilidades (em desenvolvimento): 
+- 💬 **Idiomas:** Inglês 
+- 🐍 **Linguagens:** Python  
+- ☁ **Cloud Computing:** AWS, Azure e GCP 
+- 🤖 **Inteligência Artificial:** IA Generativa, Machine Learning  
+- ⚙ **Desenvolvimento de Software:** Engenharia de Requisitos, Metodologias Ágeis  
 
--Python 🐍
+## 🎯 Próximos passos  
+📌 Certificações em andamento:  
+- **AWS Certified Cloud Practitioner**  
+- **ITIL 4 Foundation**  
 
--Cloud ☁
+## 🏆 Fora da TI  
+♟ Apaixonado por xadrez, ⚽ futebol e 🧠 filosofia.  
 
--Inteligência Artificial 🤖
-
--Desenvolvimento de software ⚙
-
-O que vem por aí: Certificações AWS Certified Cloud Practitioner e ITIL4. 🚀
-
-Fora da TI: ♟ xadrez, ⚽ futebol e 🧠 filosofia.
-
-<!---
-Matheus-Motareli/Matheus-Motareli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📫 **Vamos conectar?**  
+Me encontre no [LinkedIn](https://www.linkedin.com/in/matheus-motareli)  
