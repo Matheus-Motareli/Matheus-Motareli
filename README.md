@@ -4,7 +4,7 @@
 
 Experiência focada em: Resolução de problemas, gestão e consultoria de TI. 💻
 
-Habilidades em desenvolvimento:
+## Habilidades em desenvolvimento:
 
 -Inglês us
 -Python 🐍
