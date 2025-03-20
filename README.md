@@ -19,7 +19,7 @@ Sou um profissional apaixonado por tecnologia, especializado em **suporte técni
 - **ITIL 4 Foundation**  
 
 ## 🏆 Fora da TI  
-♟ Apaixonado por xadrez, ⚽ futebol e 🧠 filosofia.  
+ Apaixonado por: ♟ xadrez, ⚽ futebol e 🧠 filosofia.  
 
 📫 **Vamos conectar?**  
 Me encontre no [LinkedIn](https://www.linkedin.com/in/matheus-motareli)  
