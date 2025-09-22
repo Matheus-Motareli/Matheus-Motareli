@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou Matheus Motareli  
 
 💻 **Analista de Suporte de TI | Técnico de Informática**  
-🎯 **+5 anos de experiência em Help Desk, Gestão e Consultoria de TI**  
+🎯 **+6 anos de experiência em Help Desk, Gestão e Consultoria de TI**  
 
 ## 🚀 Sobre mim  
 Sou um profissional apaixonado por tecnologia, especializado em **suporte técnico, resolução de problemas e gestão de TI**. Atualmente, estou expandindo meus conhecimentos em **Cloud Computing, Inteligência Artificial e Desenvolvimento de Software**.  
